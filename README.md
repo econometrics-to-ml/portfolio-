@@ -21,5 +21,7 @@ Here are my key projects demonstrating skills in **R, Python**, statistical mode
 
 ---
 
-*📫 You can also find me on [Telegram](@algo_student) or [LinkedIn](www.linkedin.com/in/econometrics-to-ml).*
-
+📫 Connect with me:
+• [HeadHunter Network](https://set.ki/chzyrPQ)
+• [LinkedIn](www.linkedin.com/in/econometrics-to-ml)
+• [Telegram](@algo_student)
