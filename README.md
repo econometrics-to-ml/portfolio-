@@ -19,6 +19,14 @@ Here are my key projects demonstrating skills in **R, Python**, statistical mode
 *   **Key Skills:** Machine Learning (Ridge, KNN), Feature Engineering, Model Comparison.
 *   **Repo:** [View Project](https://github.com/econometrics-to-ml/innovation-pipeline)
 
+### 3. 📊 ARIMA Pipeline for Financial Contagion
+*Automated large-scale time series modeling and selection.*
+
+*   **Goal:** Identify financial contagion effects across markets by filtering thousands of time series and selecting only those suitable for forecasting.
+*   **Stack:** Stata, ARIMA, Box-Jenkins, Phillips-Perron test, Breusch-Godfrey test, AIC criterion.
+*   **Key Skills:** Time Series Analysis, Statistical Testing, Automation, Large-Scale Data Processing.
+*   **Repo:** [View Project](https://github.com/econometrics-to-ml/financial-contagion-arima)
+
 ---
 
 📫 Connect with me:
